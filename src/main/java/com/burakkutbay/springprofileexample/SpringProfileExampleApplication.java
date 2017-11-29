@@ -1,0 +1,12 @@
+package com.burakkutbay.springprofileexample;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringProfileExampleApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringProfileExampleApplication.class, args);
+	}
+}
